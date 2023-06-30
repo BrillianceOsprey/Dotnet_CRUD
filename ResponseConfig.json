@@ -1,0 +1,61 @@
+{
+    "R201": {
+      "code": "201",
+      "message": "Success"
+    },
+    "R202": {
+      "code": "202",
+      "message": "User Already Login"
+    },
+    "R000": {
+      "code": "000",
+      "message": "Failed"
+    },
+    "R001": {
+      "code": "001",
+      "message": "System Error"
+    },
+    "R002": {
+      "code": "002",
+      "message": "Not Access"
+    },
+    "R003": {
+      "code": "003",
+      "message": "Not found"
+    },
+    "R004": {
+      "code": "004",
+      "message": "Network Error"
+    },
+    "R005": {
+      "code": "005",
+      "message": "Invalid Client Key"
+    },
+    "R006": {
+      "code": "006",
+      "message": "Air Reservation Servive"
+    },
+    "R007": {
+      "code": "007",
+      "message": "Ticket Servive"
+    },
+    "R008": {
+      "code": "008",
+      "message": "Ticket Payment Refund"
+    },
+    "R009": {
+      "code": "009",
+      "message": "Booking Cancel"
+    },
+    "R400": {
+      "code": "400",
+      "message": "Duplicate Error"
+    },
+    
+    "R401": {
+      "code": "401",
+      "message": "Invalide Unauthorized Key"
+    }
+   
+  }
+  
